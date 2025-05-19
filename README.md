@@ -7,5 +7,3 @@ The target of this project to create the Snowflow library for Snowflake which sh
 
 
 The PySpark relies on the Spark computing engine or a active Spark Cluster. Then the Snowflow is target on using the Snowflake Cloud service as its computing & storage layer.
-
-![to be added]()
